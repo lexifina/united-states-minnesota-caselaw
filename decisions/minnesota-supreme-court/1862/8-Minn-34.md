@@ -1,0 +1,24 @@
+---
+court: "Minnesota Supreme Court"
+decided: "1862-07"
+citations: ["8 Minn. 34"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dennis W. C. Dunwell, et al., Plaintiffs in Error, vs. Ira Bidwell, Defendant in Error."]
+source_url: "https://static.case.law/minn/8/cases/0034-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8875014
+cites_cases: ["2 Pick., 172", "5 Minn., 74", "Minn. R. 86"]
+---
+
+# Dunwell v. Bidwell
+
+## Majority (FlaNdeau, J.)
+
+By the Court
+FlaNdeau, J.
+This action involves the construction of the Mechanics’ Lien Laws of 1855 and 1858. Comp. Stats, p. 694-6, die. The Defendant, Trower, commenced work on the premises, May 18, 1857. At this time the act of 1855 was in force, and gave him a lien from the time of “laying stock.” Seo. 9,p. 58-9-Zaws 1855. We held in the case of Farmer’s Bank vs. Winslow, 3 Minn. R. 86, that the words “ laying stock,” meant the commencement of labor or placing materials on the premises. Had nothing interfered, the Defendant, Trowei’’s, lien would have dated back to the 18th of May, 1857. On the 20th of March, 1858, an act was passed by the legislature which unconditionally repealed the act of 1855. All right to a lien for the work or materials, was therefore taken away, and the mortgage of September 10th, 1857, became the only lien on the land. 4 Minn. B., 546. The act of March 20th, 1858, by section one, comprehends claims that were in existence at the date of its passage, and declares that they “ shall be a lien on such land and building, and shall take precedence of any other lien or in-cumbrance which shall originate subsequent to the commencement of such services, or the furnishing of such materials.” We must begin here, as if this act' of March 20,1858, was the first that had ever been passed on the subject of liens. It saves no right that had accrued under the act of 1855. It could not therefore make the claim of the Defendant, Trower, take precedence of the mortgage, and the clause above quoted, making such a claim a lien with precedence over all incumbrances which originate subsequent to the commencement of the work or the furnishing of such materials, must be construed to mean such incumbrances only as originate subsequent to the passage of the act. 5 Minn. R., 74. In August, 1858, another lien law was passed, which by section 17, saved all liens previously filed under former acts. This saving clause could only reach such liens as had been filed under the act of March 20, 1858, because all previous liens, not perfected, had been destroyed. . This act, therefore, does not give the lien of Trower precedence over the Plaintiff’s mortgage. We therefore agree with the Court below on all questions in the case decided under the lien laws.
+There is another question that arises under the law of August 3d, 1858. Comp. Stat., p. 400. The Defendant, Trower, insists that, as the act of August 3, 1858, places a judgment creditor upon the same footing as a bona fide purchaser for value, the mortgage cannot be corrected so as to affect his rights under the judgment of December 30, 1859. An examination of the language of the act, however, satisfies us that he is mistaken in this view. The act declares that every conveyance by deed, mortgage or otherwise, of real estate within this State hereafter made, shall be void as against attachments and judgments, &c. obtained before it is recorded, &c. Now this act undoubtedly does place attaching and judgment creditors upon the same equality with bona fide purchasers for value, but it is only as to such conveyances as are made after the passage of the act. As to all other conveyances they are governed by the law as it previously existed, and that gave an unrecorded deed or mortgage precedence over a j udgment or attachment. Greenleaf vs. Edes, 2 Minn. R., 264. This mortgage was executed September 10th, 1857, and consequently takes precedence of the Defendant, Trower’s, judgment, whether recorded or not. It was recorded, in fact, but its defective execution, or rather the defect in the description of the land, left it, so far as subsequent purchasers were concerned, as if it had never been' recorded. ■ To correct the description was, in fact, to record the mortgage, for previous to that time the record would afford no notice of its having been a lien upon the land. The act of August 3,1858, does not, therefore, change the relations of the mortgagee and the judgment creditor; they must be tried upon tbe law as it was before that time.
+A correction of this kind could always be made as against an original party, or one claiming under him in privity, or a judgment creditor. 1st Story Eq. Jurisprudence, 165.
+Ve see no error in the record, and the judgment must be affirmed.
