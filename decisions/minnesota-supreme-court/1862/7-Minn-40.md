@@ -1,7 +1,8 @@
 ---
 court: "Minnesota Supreme Court"
 decided: "1862-07"
-citations: ["7 Minn. 40", "7 Minn. 46"]
+decided_precision: "month"
+citations: ["7 Minn. 40"]
 reporter: "minn"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +10,7 @@ parties: ["Wn. L. Banning et al., Appellants, vs. Albert Armstrong, Respondent."
 source_url: "https://static.case.law/minn/7/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8875203
-cites_cases: ["4 Minn., 294", "4 Minn., 433", "4 Yeates, 203", "9 Wend., 548"]
+cites_cases: ["4 Minn., 294", "9 Wend., 548"]
 ---
 
 # Banning v. Armstrong
