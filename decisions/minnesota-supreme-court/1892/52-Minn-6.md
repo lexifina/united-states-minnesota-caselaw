@@ -1,0 +1,23 @@
+---
+court: "Minnesota Supreme Court"
+decided: "1892-12-16"
+citations: ["52 Minn. 6"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jorgen B. Jakobsen vs. Ole J. Wigen."]
+source_url: "https://static.case.law/minn/52/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 772654
+---
+
+# Jakobsen v. Wigen
+
+## Majority (Vanderburgh, J.)
+
+Vanderburgh, J.
+The plaintiff and defendant were tenants in common of a certain lot of land, and on or about March 31, 1887, the plaintiff leased to the defendant, at a stipulated rental of $30 per month, his half interest in the premises for the term of three years, and the latter thereupon occupied the same exclusively, paying rent therefor until after the sale of plaintiff’s interest upon execution, as hereinafter mentioned. On or about July 10, 1889, defendant, Wigen, obtained a judgment against the plaintiff in an injunction suit, restraining him from foreclosing a certain mortgage upon the premises, and without notice to the plaintiff caused the costs to be taxed and inserted therein, to the amount of $20, which the plaintiff was thereby adjudged to pay; and the plaintiff had no knowledge of the entry of such judgment for costs against him until after the execution sale thereon. The entry of the judgment for the costs allowed defendant, without notice, was irregular, but the judgment was not void, though subject to be modified upon application to the court. 3 Wait, Pr. 553. The court finds that on or about the 25th day of November, 18S9, the parties plaintiff and defendant, by their mutual agreement, settled and satisfied the claim for costs referred to. But we are of the opinion that this finding is not warranted by the evidence. There was a settlement between them of other obligations, and defendant paid the plaintiff the exact balance due him upon the claims held by him against the defendant; but, whatever may have been the impressions of plaintiffs attorneys in respect to the settlement or abandonment of the claim for costs in question, the evidence does not warrant the conclusion that it was so understood or agreed to by the defendant.
+The defendant had previously procured an execution to be issued on the judgment, and had caused the sheriff to levy upon the plaintiff’s moiety of the common property; and the same was sold, in pursuance of notice, to the defendant for the sum of $52, the amount of the judgment and costs, on the 30th day of December, 1889. The plaintiff was at that time a nonresident of the state, and so continues to be, and had no knowledge of the proceedings until after the time for redemption expired. In the mean time, the defendant had been paying rent to plaintiff, and was actually indebted to the plaintiff in a large sum when the levy was so made, and in addition to that had moneys in his hands at the time, belonging to the plaintiff, sufficient to cancel the judgment. And there was also other personal property of the plaintiff subject to levy, within the knowledge of the defendant, out of which the judgment might have been satisfied; but the defendant failed to make known or assert his claim, as in good faith he should have done, orto cause the personal property to be levied on.
+The evidence fully warrants the finding of the court that the defendant acted in bad faith in proceeding upon the execution behind plaintiff’s back, and with the fraudulent purpose of securing to himself plaintiff’s share of the property for a nominal sum, while it was worth at least $4,000, when there was ample personal property, to his knowledge, out of which'it might have been satisfied. A sale is not rendered absolutely void by reason of the failure of the sheriff to levy upon personal property in the first instance; but where the property sold has not passed to innocent purchasers, and the transaction is unconscionable and oppressive, as in the case at bar, a clear case is presented, and the court will administer relief by setting aside the sale, if seasonably applied for. 2Ereem. Ex’ns, § 279. And relief may be had in such case in a suit in equity as well as by motion.
+It follows that the decision of the court below directing that the defendant’s judgment be decreed to be satisfied was erroneous, and judgment should be entered directing the vacation of the execution sale only. The order denying a new trial is affirmed, but the case will be remanded, with instructions to render judgment in conformity with these directions.
+(Opinion published 53 N. "W. Rep. 1016.)
