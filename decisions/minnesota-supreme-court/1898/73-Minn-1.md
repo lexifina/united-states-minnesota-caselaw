@@ -1,0 +1,29 @@
+---
+court: "Minnesota Supreme Court"
+docket: "11,058-(32)"
+decided: "1898-06-14"
+citations: ["73 Minn. 1"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE ex rel. SYLVESTER KIPP and Another v. J. P. NORD."]
+source_url: "https://static.case.law/minn/73/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1638501
+cites_cases: ["117 Ill. 568", "132 Ill. 665", "24 N. E. 634", "31 Pac. 619", "36 Kan. 252", "41 Kan. 486", "42 Minn. 155", "45 Kan. 47", "59 Minn. 35", "61 Minn. 119", "62 Minn. 246", "7 N. E. 68", "96 Cal. 501"]
+---
+
+# State ex rel. Kipp v. Nord
+
+## Majority (COLLINS, J.)
+
+COLLINS, J.
+General demurrer to the petition upon which was issued an alternative writ of mandamus directing defendant county auditor to permit the relators, who alleged themselves to be the fee-simple owners of certain tracts of land, to redeem the same from a tax sale made under and by virtue of the provisions of Laws 1893, c. 150. (See G. S. 1894, p. 429, note.) From the petition it appeared that the l'elators’ right so to redeem was denied by the auditor on the ground that notice of the expiration of the period of redemption had been duly given and received, and the time to redeem had expired. The court below sustained the demurrer, and relators appeal.
+1. It is argued by defendant that no notice to redeem lands sold under the provisions of the 1893 statute was necessary.
+The scheme of the law under consideration was to enforce the collection of taxes which became delinquent in the several counties of this state in and prior to the year 1889, by a public sale in each county on October 12, 1893. The 1893 statute contains no express requirement that the general law (G. S. 1894, § 1654) shall be ob.served, and the notice therein prescribed shall be given or served as to the lands so to be sold, and there are several provisions in the act which, construed independently of one found in the latter part of section 5, might lead to the conclusion that the notice to redeem above referred to is not essential, and that it need not be given or served in order to confer a fee-simple title in the purchaser at the sale, subject simply to the right of the owner to redeem within one year. But it is provided in that part of the section just mentioned that the certificate'issued to the purchaser, and which constitutes his muniment of title,
+“May be recorded as deeds of real estate after ninety days have elapsed from the service of notice of redemption from tax sale as now provided by law,”
+And some force and effect must be given to these words. They were inserted for the benefit of the landowner or redemptioner, and not merely as a wholly useless regulation in reference to the recording of certificates. We cannot ignore them, and this would be the inevitable result unless we hold that in this unsuitable place in the law, and in this awkward manner, the legislature expressed its intent to fasten upon the 1893 act the then existing general law in respect to notice to redeem, — the notice “as now provided by law.”
+Of course, a direct provision, independent of all reference to the recording of certificates of sale, would have better served the purpose; but unfortunately much legislation is crude, and frequently the different parts of statutory enactments are badly put together. The act in question is an example of a badly-considered and defectively constructed statute. Recognizing the frequently announced rules for the construction of statutes, we are obliged to hold that the general law is applicable, and that the statutory notice of the time within which redemption is to be made must be given and served in order to terminate the right, and secure absolute title to lands sold under the provisions of chapter 150, supra.
+2. The second point made by respondent’s counsel is that the notice which was given by service upon the persons in possession of the land (strangers to relators’ title), in the absence from the county of the person named in the notice and in whose name the land was assessed, was sufficient, under section 1654, supra. The defect in the notice relied upon by relators is that it was therein stated that the time for redemption would expire in 90 instead of 60 days after service of the notice and proof of such service had been filed.
+The statute providing for this notice is mandatory, and the time when the right to redeem expires must be stated clearly and correctly in the notice. There must be strict compliance, and the auditor cannot depart from the statutory requirements. He cannot substitute provisions of his own for those specified in the law under which he prepares the notice, and it is the law which determines the time or period of redemption to be inserted in the notice, not the county auditor. The courts cannot condone a material departure from a statute of this importance, or everlook an irregularity so great in proceedings which may end in the devestiture of property. The time fixed in the notice was 90 days when the statute prescribed 60. The period within which to redeem was enlarged, to be sure, but in principle this can make no difference. No distinction can be made between a notice which extends the time and one in which the time is reduced. Wisner v. Chamberlin, 117 Ill. 568, 7 N. E. 68; Benefield v. Albert, 132 Ill. 665, 24 N. E. 634. In the case last cited the time was extended just one day by the notice. See, also, Reed v. Lyon, 96 Cal. 501, 31 Pac. 619, where the rule was applied in a case when the notice to redeem stated the amount required to be paid a single dollar too much; and Black, Tax Titles, §§ 329, 334; 2 Blackwell, Tax Titles (5th Ed.) § 679. The notice was defective and invalid.
+The order appealed from is reversed, and on remittitur the court below will direct that a peremptory writ issue as prayed for.
