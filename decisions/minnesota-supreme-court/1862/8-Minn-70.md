@@ -1,0 +1,32 @@
+---
+court: "Minnesota Supreme Court"
+decided: "1862-07"
+citations: ["8 Minn. 70"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George Heinlin, Respondent, vs. John B. Fish, Appellant."]
+source_url: "https://static.case.law/minn/8/cases/0070-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8875088
+cites_cases: ["1 Minn., 156", "15 Pick., 291", "18 Pick., 13", "2 Minn., 113", "5 Mass., 353", "8 Pick., 122"]
+---
+
+# Heinlin v. Fish
+
+## Majority (Atwater, J.)
+
+By the Court
+Atwater, J.
+This was an action brought ^by the Respondent to recover the amount of $180, alleged to be due him from the Defendant, under a contract to perform work and labor for him. The complaint alleged a settlement between the parties, on the 8th of September, 1860, upon which said amount was found due the Plaintiff.
+The answer admitted the performance of the labor, but denied the settlement, and claimed breach of the contract by the Defendant, and damages therefor. Also claimed a set-off, as specified in bill of particulars accompanying the answer. There was a reply denying the new matter set up in the answer.
+The cause was tried by a Jury, who found a verdict for the Plaintiff for $181.35; The Defendant moved for a new trial upon a case settled, which motion was denied, and an appeal taken to this Court.
+The case does not disclose a single exception taken by the Defendant to the introduction of evidence, or charge to the Jury. The first objection here urged by the Appellant is, that the evidence is insufficient to justify the verdict. It is claimed that it is incumbent on the Plaintiff to entitle him to recover to prove that the contract set forth in the complaint was mutually abandoned and rescinded by the parties hereto, on the day of the pretended settlement, which is the basis of this action, and that the same is not proved. It appears from the case that the Jury were charged that they must find such abandonment, in order to entitle the Plaintiff to recover.
+The Plaintiff, in his testimony, stated among other things, as follows, viz. : “ Patrick Riley brought in this written order,” (which was then introduced in evidence) :
+“ Mr. George Heinlein:
+“ You will deliver the key of my mill to Patrick Riley, the bearer of this.
+“ Sept. 8, 1860. JoHN B. Pish.”
+This order is dated the same day as the settlement testified to by the witnesses, and Plaintiff testified he delivered the key on the order, and the evidence was received without objection. The evidence was certainly pertinent to the'issue, and would tend to show that the Defendant had consented to or directed his discharge. Whether the evidence was sufficient to prove such issue, was within the province of the Jury to determine.
+Where a question of fact has been submitted to the Jury, upon which some pertinent evidence has been introduced, to prove the same, this Court will not set aside the verdict, on the ground that the evidence is insufficient to justify the finding of the Jury, especially where no evidence is offered to disprove the fact. The Defendant, who was sworn in his own behalf, does not testify that the contract was not mutually abandoned and rescinded. He says that he “ asked Heinlein if he h ad said that he intended to stop work and shut up my mill if I did not pay him a certain amount. He said that he had said so. I then told him I would do nothing further in the matter.”" This conversation occurred on the day and at the time of the settlement, and shows that the Defendant was aware of the Plaintiff’s intention to quit. And followed as it was the same evening by the demand for the hey, we think the Jury had sufficient evidence to justify their finding the issue in favor of the Plaintiff.
+It is also objected that the verdict is too large by $36.55, an amount made up of three items specified in the bill of par* ticulars, accompanying the answer, and which the Appellant claims are admitted by the reply and by the testimony of the Plaintiff. Ve think the reply sufficiently puts in issue the set-off claimed in the answer, and that such was the understanding upon the trial, as evidence was introduced touching these items, and so far as the case shows, it was not claimed in the Court below that the reply admitted the set-off, or any part thereof. With regard to two of the items, viz., $10.55 in money, and one sack of flour-, at $2, the Plaintiff admitted that he had received them, and that they were not included in the settlement with Defendant. With regard to the other item — that of the house-rent — we do not understand that to be admitted by Plaintiff’s testimony. The whole testimony upon this point is in the cross-examination of the Plaintiff, and is staled in these words: “ I claimed that Mr. Eish was not the owner of the house. The house rent was not included,” (in the settlement.) This, certainly, cannot be claimed as an admission by the Plaintiff that he was owing Defendant house rent. The Defendant introduced no evidence to prove this item, or indeed any part of his set-off. On the contrary, on his cross-examination regarding the settlement between him and Plaintiff, he stated as follows, viz., “ We did find, as we then understood the matter, — that there was due the Plaintiff $45 in cash, and store accounts above cash, and store payments. We also came to the conclusion, as we then understood the matter, that there was $135 due him in labor, work and materials.” These are the precise amounts claimed by the complaint, -and the Jury probably considered the conclusion then arrived at, as stated by both parties, was more correct, than the conclusion arrived at by the Defendant alone, after suit commenced.
+With regard to the items, the receipt of which was admitted by Plaintiff, and not considered in tbe settlement, we might order tbe amount to be remitted on tbe judgment, were it certain that tbe Jury bad included them in their verdict. But this does not appeal’. Deducting the amount cf these items ($12.55) from tbe claim of tbe Plaintiff, and there would remain $167.45. The interest on this amouut from the time when demand was proved (Sept. 8, 1860) to the time of the rendition of the verdict, would amount to the sum found for the Plaintiff, at least within a few cents. There is no ground for disturbing the verdict, and the order refusing a new trial is affirmed.
