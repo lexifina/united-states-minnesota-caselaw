@@ -1,0 +1,22 @@
+---
+court: "Minnesota Supreme Court"
+decided: "1889-11-05"
+citations: ["42 Minn. 6"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles C. Kriger vs. Theodore Leppel."]
+source_url: "https://static.case.law/minn/42/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 751048
+cites_cases: ["31 N. W. Rep. 938", "36 Minn. 473", "45 N. Y. 162"]
+---
+
+# Kriger v. Leppel
+
+## Majority (Gilfillan, C. J.)
+
+Gilfillan, C. J.
+This was an action to recover on the quantum meruit for some seven months’ services as a farm laborer, rendered by plaintiff for defendant. The defence was that the services were rendered under a contract by which plaintiff agreed to work for one year at a fixed gross price, agreed by defendant to be paid therefor at the end of the year, and that the plaintiff, without just cause, ceased work before the end of the year. The plaintiff in his reply denies the contract, and alleges good cause for quitting work. On the trial evidence was given from which the jury might have found either way, — that an oral agreement such as the answer alleges was or was not made, and that the work was or was not done under it, — and either way as to good cause for quitting work. It is very apparent that, if made, the agreement was not to be performed within one year from the time of making it. Plaintiff had a verdict, and the court below granted a new trial on the ground, as is evident, that the verdict was not justified by the evidence.
+Under the rule, so many times affirmed in this court, — that we will not reverse an order granting a new trial on that ground, unless the evidence is manifestly and palpably in favor of the verdict, — we cannot disturb this order, unless the evidence was manifestly and palpably in favor of some theory as to the facts that would entitle plaintiff to recover. We do not find any such preponderance in plaintiff’s favor. The evidence upon the allegations that the agreement, not to be performed within a year, was made as defendant alleges; that the work was done under it;. that the defendant was ready to abide by it on his part; and that plaintiff quit work without cause, — was not so strongly against them that we could, under the rule referred to, reverse an order setting aside a verdict in the negative upon them, provided a finding the other way would prevent a recovery by the plaintiff; and that presents the only question of law in the case.
+Oral contracts of this description are not wholly void. No action, it is true, can be maintained to enforce them. So far, however, as the parties have voluntarily acted under and performed them, they are to be taken as defining and measuring the rights of the parties. This was held in La Du-King Mfg. Co. v. La Du, 36 Minn. 473, (31 N. W. Rep. 938.) The proposition that, though not actionable, they are to be regarded as in force to define the fights of the parties with respect to what they do under them, disposes, if logically followed, of the claim of one who, under an agreement for services, within the statute of frauds, renders part of the services, and without cause refuses to complete them. If, by the terms of the agreement, he would be entitled to pay for the part-performance, the rate fixed by it must be the measure he is to receive; and, if entitled by its terms to pay only on condition of performing the whole, then he cannot recover unless he performs the whole, or shows some legal excuse for not doing so. As said in Galvin v. Prentice, 45 N. Y. 162: "When the contract is entire, and one party is willing to complete the performance, and is not in default, no promise can be implied on his part to compensate the other party for a part-performance.” Certainly it ought to be so where the failure to fully perform is due wholly to the fault of such other party. Assuming that there was in this case such a contract as defendant alleges, then, had it been fully performed, — had plaintiff worked the agreed time, and defendant paid the agreed price, — no one would suppose that plaintiff could have sued and recovered on the quantum meruit more than had been paid him. The agreement would, in such a case, control the rights of the parties in respect to what had been done under it. Had the jury decided the issues of fact we have mentioned in favor of the defendant, he would have been entitled to a general verdict. The order granting a new trial is therefore affirmed.
