@@ -1,7 +1,8 @@
 ---
 court: "Minnesota Supreme Court"
 decided: "1862-07"
-citations: ["7 Minn. 29", "7 Minn. 30"]
+decided_precision: "month"
+citations: ["7 Minn. 29"]
 reporter: "minn"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
