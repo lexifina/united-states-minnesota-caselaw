@@ -1,0 +1,31 @@
+---
+court: "Minnesota Supreme Court"
+decided: "1860-07"
+citations: ["4 Minn. 47"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Emmett, Ohief Justice, dissents."]
+parties: ["James Y. Caldwell, Appellant, vs. Hiram P. Kennison, Respondent."]
+source_url: "https://static.case.law/minn/4/cases/0047-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 745311
+cites_cases: ["10 Conn., 460", "11 Wheat. 280", "6 Cranch, 206", "7 Wend., 312"]
+---
+
+# Caldwell v. Kennison
+
+## Majority (Elandrau, J,,)
+
+Elandrau, J,,
+By the Court. Replevin for apiano. Caldwell was Sheriff of Ramsey county, and had in his hands an execution against one Galusha, upon which he seized the piano in question, as the property of said Galusha. Kennison brings replevin, alleging the piano to be his, under a sale made some time previous to him by Galusha. The question at issue, and upon which the case was tried, was the validity of the sale from Galusha to Kennison. A good deal of evidence was introduced to cast suspicion upon the sale ; one circumstance of which was, that the piano remained in the house of Galusha after the sale, and was. used by his wife and guests in the same manner as before; which circumstance was sought to be avoided, by showing that the Plaintiff was a boarder and inmate of the family of Galusha. The delivery of the piano under the sale was therefore a point in litigation, upon which there was conflicting evidence, making it strictly a question for the jury to decide.
+The Court, in giving the case to the jury, charged; them upon the point of delivery as follows: “ That. delivery was essential to a valid sale. , That to determine whether or not the delivery was valid in this case, they must take all the circumstances under consideration, and that he knew nothing in this case that went to show that the delivery from Galusha to the Plaintiff was not valid under the circumstances, so far as it was within the province of the Court to determine the question.”
+There is no doubt that the question of delivery was purely 'one of fact, to be determined by the jury, as the Judge told them, upon a consideration of all the circumstances, and that as such, the Judge had no right to influence their decision of it, by informing them what his views were upon the sufficiency or insufficiency of the delivery. This he did do as clearly as words could express it. He said “he saw nothing in the case that went to show that the delivery from Galusha to the the Plaintiff was not valid under the circumstances.” Language could not be more explicit in conveying the idea that his personal views were, that the delivery was good as a fact, and valid in the law. The qualification that he added, that he only spoke “ so far as it was within the province of the Court to determine the question,” did not in any manner lessen the effect that a declaration of his views upon the question would have upon the jury; but, on the other hand, left the idea upon their minds that to some extent “ it was within the province of the Court to determine the question,” and to that extent he spoke authoritatively.
+In this the Judge erred. The question was one of fact, with which the Court had nothing to do, and no right to express any opinion upon. The statute upon this subject is as follows: Pub. Stats., p. 559, sec. 22. “ In charging the jury the Court must state to them all matters of Law which it thinks necessary for their information in giving their verdict; and if it present the facts of the case, it must also inform the jury that they are the exclusive judges of all questions of fact.”
+It is quite clear, from the language of this section, that the decision of all questions of fact belongs exclusively to the jury, and That the words, “ if it present the facts of the case,” do not authorize the Court to express any opinion upon the facts so as to influence the jury, but merely allows him, if he wishes, to make a statement of what the facts are.
+It is well known that on the trial of a litigated question of fact, the jury regard the Judge as the only impartial person connected with the case. They are aware that the counsel are both biased strongly toward the interest they represent. The generally acknowledged experience, integrity and learning of the Judge, and particularly so in the distinguished Judge who presided in this case, lends great weight to his views and opinions with juries, so much so that in many cases of doubt tlie slightest intimation from him would turn the scale to the one side or the other. In order, therefore, that the jury should be “the exclusive judges of all questions of fact,” it is quite important that no extraneous influences should be allowed to reach them, and particularly those of such potential effect as the opinions of the presiding Judge.
+The case of Durkee vs. Marshall, 7 Wend., 312, cited by the counsel for the Eespondent, admits the impropriety of the Court expressing an opinion upon questions of fact, and endeavors to show that the Court did not do so in that case, but only expressed an opinion upon the weight of evidence, which, in my opinion, is quite as objectionable as to give an opinion upon the question of whether the fact is or is not established by tlie proof, as was done in the case at bar. But the real ground upon which that case went off, is sufficiently manifest in the closing remarks of the Court, in delivering the opinion, to destroy its effect as an authority upon any point, save that the Court that decided it did not wish to be troubled with petty cases. The Judge says:
+“In a case like this, involving an amount of only $5, commenced originally before a j ustice of tbe peace, where tbe Plaintiff recovered, carried by appeal to tbe Court of Common Pleas, where be. again recovered, and now brought into tbis Court by writ of error, nothing but a clear and palpable violation of some rule of law would justify tbe Court in reversing tbe judgment.”
+Tbe Judge erred in bis charge to tbe jury in tbe respect stated, and tbe defendant is entitled to a new trial.
+Tbe order refusing a new trial is reversed, and a new trial awarded.
+Emmett, Ohief Justice, dissents.
