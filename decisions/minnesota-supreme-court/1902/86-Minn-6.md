@@ -1,0 +1,29 @@
+---
+court: "Minnesota Supreme Court"
+docket: "12,939-(34)"
+decided: "1902-04-11"
+citations: ["86 Minn. 6"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THOMAS C. MERRIMAN v. FRANK ANSELMENT."]
+source_url: "https://static.case.law/minn/86/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1641032
+cites_cases: ["89 N. W. 1125"]
+---
+
+# Merriman v. Anselment
+
+## Majority (START, O. J.)
+
+START, O. J.
+This action originated in justice court. The complaint alleged that the plaintiff, at the request of the defendant’s wife, performed services for him in enlarging photographs of himself and wife, and that such services were of the reasonable value of $3.96, which the defendant promised to pay, but has not. The answer was a general denial. Judgment was rendered in the justice court in favor of the defendant, from which the plaintiff appealed to the district court on questions of law alone. The district court reversed the judgment of the justice, and entered judgment for the plaintiff for the amount of his claim, with costs, from which the defendant appealed to this court.
+The case was, as the statute (G. S. 1894, § 5071) requires, tried in the district court upon the return of the justice. Therefore if, upon the whole record, it appears, as a matter of law, that the plaintiff is entitled to recover, the judgment of that court is correct, otherwise not; for it is not a question of the preponderance of the evidence. It is clear from the record that, except for a certain admission of the defendant found in the return of the justice, the judgment of the justice should have been affirmed. The evidence was practically conclusive that the defendant’s wife ordered the photographs to be enlarged without any express authority from the defendant; that after the work was done the defendant refused to pay for it because he had never ordered or authorized it, and for the further reason that it was not well done. He, however, admitted that, if the pictures had been good ones, he would have accepted them and paid for them.
+There was evidence on the part of the plaintiff tending to show that the defendant admitted that his own picture was a good one, but claimed that his wife’s was not, and suggested changes which he wished made, and agreed that, if they were made, he would take the pictures and pay for them, and that the changes were made as ordered. This was substantially denied by the defendant in his testimony, but when the plaintiff was offering evidence in rebuttal the defendant’s counsel admitted of record, as appears from the return of the justice,
+“That the pictures produced in evidence for the inspection of the court, as enlarged, are perfect likenesses of the original photos from which they were enlarged, as ordered changed by the defendant.”
+No further evidence was offered by either party.
+After the justice had made his return to the district court, an order was made by that court upon the affidavit of the attorney of the defendant representing him in the justice court, denying that the admission found in the record was ever made, requiring the justice to show cause why he should not amend his return by striking out the admission of counsel therein. In response to this order the justice made and filed his affidavit affirming the correctness of his return, and affirmatively stating that the admission was reduced to writing at the time it was made, and read to the attorney, and expressly declared by him to be correct. Thereupon the court made its order reversing the judgment of the justice, but before judgment was entered the defendant made a motion— based upon his own and his attorney’s affidavit, denying that the admission was intentionally made, and stating that, if it was made, it was improvidently done — to set aside the order reversing the judgment of the justice, and for a new trial, to the end that the admission be stricken from the record, and the judgment of the justice affirmed. The court denied the motion, and judgment was entered pursuant to the original order.
+The reasons here urged by the defendant why this judgment should be reversed are that the trial court had the power to strike the admission from the record if it found that it was improvidently made, and that it erred in not so doing, and, further, that, if the admission be treated as a part of ■ the record, the judgment of reversal was not justified by it. The district court has power, on the trial de novo of an action, to relieve a party from an admission of record improvidently made; but it is otherwise when it exercises its appellate jurisdiction on the hearing of an appeal from the judgment of a justice court upon questions of law alone. In such a case the appeal must be determined solely upon the return of the justice, and the only power the district court has over the return is to order, upon a proper showing, the justice to make a further or amended return. It cannot relieve a party from .an. admission made of record in the justice court. It would be a perversion of justice for the appellate court to relieve a party .from an admission made of record on the trial in the justice court, upon which the adverse party presumably relied, and, by reason thereof, refrained from offering further evidence.
+It follows that the district court did not err-either in omitting to require an amended return, or in refusing to relieve the defendant from his admission of record. This leaves only the question whether upon the return of the justice, including the admission, the plaintiff was entitled to judgment. We hold that he was, for the admission in the record is a substantial concession of the correctness of the plaintiff’s evidence and claim.
+Judgment affirmed.
