@@ -1,0 +1,22 @@
+---
+court: "Minnesota Supreme Court"
+decided: "1888-12-27"
+citations: ["40 Minn. 1"]
+reporter: "minn"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hans C. Hanson vs. John Marsh."]
+source_url: "https://static.case.law/minn/40/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 550825
+cites_cases: ["11 Cush. 1", "136 Mass. 511", "15 Vt. 685", "18 C. B. 587", "33 Mich. 223", "4 Cush. 497", "40 Am. Dec. 698", "59 Am. Dec. 131", "6 Cush. 508", "68 N. Y. 598"]
+---
+
+# Hanson v. Marsh
+
+## Majority (Dickinson, J.)
+
+Dickinson, J.
+The principal ground of recovery, as set forth in the complaint and as presented in the case, is the breach of an alleged contract for the sale to the plaintiff by the defendant, of a threshing-machine, consisting of a separator and engine. The plaintiff had a verdict for damages. It will only be necessary, upon this appeal from an order denying a new trial, to decide as to the validity of the alleged contract with regard to the statute of frauds. The following written instrument, signed by the defendant, is relied upon as a sufficient memorandum of the contract to answer the requirements of the statute: “Glencoe, 20th May, 1887. I, John Marsh, having this day sold to Hans Hanson, of the town of Helen, county of McLeod, a certain threshing-machine, (of the Agitator Separator manufacture, and a twelve-horse Minnesota Giant engine,) and do by this writing agree to run with said Hans Hanson, (assisting him in the running of this machine,) for the term of one month, at the rate of two dollars per day. And I further bind myself not to purchase another machine for the term of two years, or to have anything to do with the running of any other machine. John Marsh.” It is alleged in the complaint, and further appears from the evidence in the case, that the price or consideration to be paid by the plaintiff, in performance of his part of the agreement, was $1,100. This may be taken to have been an entire price or consideration, both for the sale of the property and for the further obligation of the defendant, as expressed in the above written instrument. The plaintiff, however, alleges in his complaint that the value of the property agreed to be sold was $1,400, and that the value of the defendant’s good-will and assistance in the business was $200. Deducting the latter sum from the whole contract price, it seems that, according to the estimate of the plaintiff, the sum which could be ascribed as the price of the property agreed to be sold was not less than $900. The evidence, too, goes to show that the sale of the property was the principal subject of the transaction, to which the further agreement expressed in the memorandum was merely incident; and upon the whole case it cannot be doubted that of the whole stipulated price, $1,100, the greater part represented, in the contemplation of both parties, the price of the property agreed to be sold. Such being the case, the agreement involved a contract for the sale of chattels “for the price of fifty dollars or more, ” within the meaning of the statute which requires a note or memorandum of such contract to be made in writing. Such a contract is within the statute, although it also embraces some other agreement to which the statute is not applicable. Harman v. Reeve, 18 C. B. 587; Irvine v. Stone, 6 Cush. 508. And see Hodgson v. Johnson, El., Bl. & El. 685, and Rand v. Mather, 11 Cush. 1, (59 Am. Dec. 131.)
+While it appears, both from the pleadings and from the evidence, that there was a definite stipulated price to be paid by the plaintiff, it will be observed that the memorandum contains no statement of or allusion to it. The price is an essential element in a contract of sale, and a memorandum which does not state the price, — unless, perhaps, in cases where, no price being stipulated, it is left to be measured by the rule of reasonable or market value, — is insufficient to satisfy the statute, and the contract is, by the terms of the statute, void. Elmore v. Kingscote, 5 Barn. & C. 583; Acebal v. Levy, 10 Bing. 376; Goodman v. Griffiths, 1 Hurl. & N. 574; Ide v. Stanton, 15 Vt. 685, (40 Am. Dec. 698;) Waterman v. Meigs, 4 Cush. 497; Ashcroft v. Butterworth, 136 Mass. 511; Stone v. Browning, 68 N. Y. 598, 604; James v. Muir, 33 Mich. 223; Browne, St. Frauds, § 376; 1 Benj. Sales, p. 271, § 251; 2 Schoulers, Pers. Prop. § 492.
+Order reversed.
